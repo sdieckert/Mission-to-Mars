@@ -17,13 +17,13 @@ Using BeautifulSoup and Splinter, the code is updated to retrieve full-resolutio
 ### Deliverable 3 : Add Bootstrap 3 Components
 
 The following bootstrap components were added:
-- Use the Bootstrap 3 grid system (Links to an external site.) examples to update your index.html file so your website is mobile-responsive. Use the DevTools to test the responsiveness of your website.
+- Use the Bootstrap 3 grid system examples to update your index.html file so your website is mobile-responsive. Use the DevTools to test the responsiveness of your website.
     - By adding content="width=device-width, initial-scale=1.0" to the head section, the webpage will adjust to the width of the mobile device. 
 - Add two other Bootstrap 3 components
     - The title was changed to bold.
     - The scrap button fill color and border was changed.
-    - An image was added to the backgroud of the jumbotron by adding calling an image from a style.css file. 
-    - The images were changed to the size col-xs-6.
+    - An image was added to the backgroud of the jumbotron by calling an image from a style.css file. 
+    - The mar hemisphere images were changed to the size col-xs-6.
 
 ## Summary
 
