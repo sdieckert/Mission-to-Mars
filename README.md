@@ -11,8 +11,11 @@ To add functionality to the current web app, the purpose of this project is to a
 ### Deliverable 1 and 2 : Scrape Full-Resolution Mars Hemisphere Images and Titles and Update the Web App with Mar's Images and Titles
 
 Using BeautifulSoup and Splinter, the code is updated to retrieve full-resolution image URL's of Mars’s hemispheres along with the titles of those images, where they are added to the mars Mongo database and the index.html contains code to display the images and titles.
- <web1>
- <web2>
+
+![web1](https://user-images.githubusercontent.com/87085239/176810689-fb927659-24b7-41c7-9806-75df351baefb.jpg)
+
+![web2](https://user-images.githubusercontent.com/87085239/176810724-9e6dbe14-e144-443b-b407-8cccfde66806.jpg)
+
 
 ### Deliverable 3 : Add Bootstrap 3 Components
 
